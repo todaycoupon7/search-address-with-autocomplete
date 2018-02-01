@@ -1,0 +1,7 @@
+<resources>
+    <string name="daum_app_key">YOUR_DAUM_APP_KEY</string>
+
+    <string name="app_name">AddressSearch</string>
+    <string name="str_search">검색</string>
+    <string name="str_input_hint">예) 강남대로 123</string>
+</resources>
