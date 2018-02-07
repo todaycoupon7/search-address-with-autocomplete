@@ -11,4 +11,7 @@
 소스코드를 테스트시 미리 [KakaoDevelopers_](https://developers.kakao.com/apps)에 어플리케이션 등록 및 앱키 발급을 받으셔서 strings.xml을 수정하셔서 사용하시면 됩니다.
 
 
+자세한 내용은 [https://todaycoupon7.github.io/2018/02/01/address_search.html] 링크 참조
+
+
 ![image_of_address_search](https://todaycoupon7.github.io/assets/img/pexels/address-search.png)
